@@ -4,16 +4,16 @@
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 
 
-This API aims to present a brief to consume a API resources, mainly for students in the early years of Computer Science courses and the like. For this reason, it has only eight EndPoints (resources) to use, and can be expanded according to the need.
+This API aims to present a brief to consume a API resources, mainly for students in the early years of Computer Science courses and the like. For this reason, it has few EndPoints (resources) to use, and can be expanded according to the need.
 
 As it is an instructional project, **it is not recommended** that it be applied in a production environment, as safety routines and tests have not been implemented. These resources must be researched and implemented, following the current rules, in addition to good practices. Built in **PHP 7** (see below), it allows the beginner to understand the mechanisms of access to the resources of an API.
 
 ```html
-PHP 7.3.26 (cli) (built: Jan 5 2021 15:10:35) (ZTS MSVC15 (Visual C++ 2017) x64
-) Copyright (c) 1997-2018 The PHP Group Zend Engine v3.3.26, Copyright (c)
-1998-2018 Zend Technologies
+PHP 7.4.3 (cli) (built: Jul  5 2021 15:13:35) ( NTS )
+Copyright (c) The PHP Group Zend Engine v3.4.0, Copyright (c) Zend Technologies
+    with Zend OPcache v7.4.3, Copyright (c), by Zend Technologies
 ```
-
+ 
 ## How to use this content?
 
 This content has _free license for use_ (CC BY-SA 4.0).
